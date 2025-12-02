@@ -1,15 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bcf7a0e-f2ba-45e3-9d8f-5a8787913fe4" name="Changes" comment="" />
+    <list default="true" id="3bcf7a0e-f2ba-45e3-9d8f-5a8787913fe4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/PythonProject1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonProject1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dars15.py" beforeDir="false" afterPath="$PROJECT_DIR$/dars15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ffff.py" beforeDir="false" afterPath="$PROJECT_DIR$/ffff.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fygeu.py" beforeDir="false" afterPath="$PROJECT_DIR$/fygeu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homeworc.py" beforeDir="false" afterPath="$PROJECT_DIR$/homeworc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vazifa.py" beforeDir="false" afterPath="$PROJECT_DIR$/vazifa.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="36FgQo1VE2ie5EYw2fb6FZ4r1Qr" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -17,7 +38,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.dars15.executor": "Run",
+    "Python.ffff.executor": "Run",
+    "Python.homeworc.executor": "Run",
+    "Python.vazifa.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="SharedIndexes">
